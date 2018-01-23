@@ -32,6 +32,3 @@ Dataset: semEval 2017 datset.
 |Precision| 0.3311 | 0.3001 | 0.3289 |
 |Recall	 | 0.2169 | 0.2126 | 0.1910   | 
 |f-score	 | 0.2621 |	0.2489 | 0.24166 |
-
-
-
